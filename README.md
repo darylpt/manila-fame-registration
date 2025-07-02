@@ -37,7 +37,7 @@ cd manila-fame-registration
 ### 2. Set Up Laravel Backend
 
 ```bash
-cd api
+cd manila-fame-api
 
 # Install dependencies
 composer install
@@ -70,7 +70,7 @@ Or if using Laravel Sail:
 ### 3. Set Up Vue Frontend
 
 ```bash
-cd frontend
+cd manila-fame-frontend
 
 # Install dependencies
 npm install
