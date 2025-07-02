@@ -30,7 +30,7 @@ A multi-step user registration application for the Manila FAME event, built as a
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-private-repo-url>
+git clone https://github.com/darylpt/manila-fame-registration.git
 cd manila-fame-registration
 ```
 
