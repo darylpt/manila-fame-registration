@@ -6,7 +6,7 @@ A multi-step user registration application for the Manila FAME event, built as a
 
 ## 🛠️ Tech Stack
 
-- **Back-End**: Laravel 11 (API)
+- **Back-End**: Laravel 12 (API)
 - **Front-End**: Vue 3 with Vite
 - **Styling**: Bootstrap 5
 - **Database**: MySQL
@@ -79,7 +79,7 @@ npm install
 npm run dev
 ```
 
-Vue frontend will be accessible at: [http://localhost:5173](http://localhost:5173)
+Vue frontend will be accessible at: [http://localhost:5174](http://localhost:5174)
 
 ---
 
